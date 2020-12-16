@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+Start
+=======
+Middle
+>>>>>>> feature1
+=======
+end
+>>>>>>> feature2
